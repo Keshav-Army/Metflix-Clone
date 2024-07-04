@@ -89,7 +89,7 @@ hr {
 
     .form-group .textbox {
         padding: 3% 10% !important;
-        max-width: 40%;
+        max-width: 100%;
     }
 
     .top-center-part .main-form {
