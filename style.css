@@ -460,6 +460,7 @@ hr {
 .form1 {
     position: relative;
     margin-top: 15px;
+    max-width: 100%;
 }
 
 .textbox {
