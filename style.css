@@ -89,6 +89,7 @@ hr {
 
     .form-group .textbox {
         padding: 3% 10% !important;
+        max-width: 40%;
     }
 
     .top-center-part .main-form {
@@ -382,7 +383,7 @@ hr {
 
 /* ============================================TOP-CENTER-PART======================================== */
 .top-center-part {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     /* display: flex; */
     align-items: center;
     max-width: 70%;
