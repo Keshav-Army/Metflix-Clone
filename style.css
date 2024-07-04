@@ -382,7 +382,7 @@ hr {
 
 /* ============================================TOP-CENTER-PART======================================== */
 .top-center-part {
-    /* border: 2px solid red; */
+    border: 2px solid red;
     /* display: flex; */
     align-items: center;
     max-width: 70%;
